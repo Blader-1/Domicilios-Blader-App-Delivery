@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeliveryKotlinUdemy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string name="google_map_api_key">AIzaSyAwQQL3T-4LF6W2pXCMvYMiVugPjY4_lns</string>
+    
+</resources>
